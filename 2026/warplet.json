@@ -1,0 +1,15 @@
+{
+  "name": "Warplet",
+  "url": "https://warplet.app/",
+  "description": "Native macOS app that connects ChatGPT, Claude, Perplexity, and Grok to your local MCP servers",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "40% off first year of Annual with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "price": { "regular": 14.99, "sale": 8.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://warplet.app/assets/logo.png"
+}
